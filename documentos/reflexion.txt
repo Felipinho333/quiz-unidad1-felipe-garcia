@@ -1,3 +1,9 @@
 Considero que los conocimientos más importantes que he 
 adquirido en el desarrollo de la unidad 1 es el 
 uso de git bash, github y la consola
+
+Lo que aprendí del quiz
+Aprendí cómo crear un proyecto dentro de git bash, 
+aprendí a comprobar los cambios registrados en un proyecto
+con git log y aprendí a conectar y subir un proyecto a un 
+repositorio de github
