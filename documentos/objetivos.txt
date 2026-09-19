@@ -1,0 +1,3 @@
+1. Entender para qué sirve git 
+2. Aprender a usar los comandos más importantes
+3. Moverme más facilmente a través del proyecto desde la terminal 
